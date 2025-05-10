@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: testpip
+Version: 0.1
+Summary: A harmless-looking package
+Author: Your Name
+Author-email: you@example.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
